@@ -23,8 +23,15 @@ nav a{
   padding-right: 10px;
   background: gray;
 }
-figcaption
+figcaption {
+  text-align: center;
+}
 
 #featured-property p {
-  
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
+
+
+
