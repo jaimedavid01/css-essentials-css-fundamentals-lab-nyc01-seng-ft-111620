@@ -33,8 +33,12 @@ figcaption {
   margin-right: auto;
 }
 
+footer {
+  
+}
+
 #detail > div {
-  float: center;
+  float: left;
 }
 div {
   margin-right: auto;
